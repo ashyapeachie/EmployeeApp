@@ -1,7 +1,7 @@
 /*
- *Author: Ashya 
- *Filename: Employee.java
- *Description: Base file for the program.
+ * Author: Ashya 
+ * Filename: Employee.java
+ * Description: Base file for the program.
  */
 
  public class Employee {
