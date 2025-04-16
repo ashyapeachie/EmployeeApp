@@ -1,7 +1,7 @@
 /*
- *Author: Ashya
- *Filename: Developer.java
- *Description: Class is derived from the Employee base class adding a specified property.
+ * Author: Ashya
+ * Filename: Developer.java
+ * Description: Class is derived from the Employee base class adding a specified property.
  */
 
  public class Developer extends Employee {
