@@ -1,9 +1,10 @@
 /*
- *Author: Ashya 
- *Filename: EmployeeApp.java
- *Description: This file, the main program, attempts to demonstrate polymorphism
+ * Author: Ashya 
+ * Filename: EmployeeApp.java
+ * Description: This file, the main program, attempts to demonstrate polymorphism
  * by calling the override "displayInfo" method.
  */
+
 import java.util.Scanner;
 
 public class EmployeeApp {
